@@ -1,0 +1,15 @@
+Prerequisite instruction to use the VS Code:----
+--> Go to the File Menu and Enabled to Auto Save.
+--> Go to the Setting Menu in the Bottom and serach mouse in the bar and check the mouse wheel Zoom.
+--> VS Code Extentions List--
+--> icons --- #vscode-icons 
+--> vs code Theme --- #Jellyfish, #Material Theme icons, #Github Theme.
+--> Code Preview --- #Live Server, #Live Preview.
+--> Auto Close Tage
+--> Auto Rename Tage
+--> Code Formater --- #Prettier
+--> Tailwind CSS Intelligence
+--> Babel ES6/ES7
+--> Babel JavaScript
+--> Simple React Snippets
+--> ES7+ React/Redux/Reat-Native Snippets
