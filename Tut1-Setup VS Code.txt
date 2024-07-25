@@ -12,4 +12,4 @@ Prerequisite instruction to use the VS Code:----
 --> Babel ES6/ES7
 --> Babel JavaScript
 --> Simple React Snippets
---> ES7+ React/Redux/Reat-Native Snippets
+--> ES7+ React/Redux/Reat-Native Snippets.
