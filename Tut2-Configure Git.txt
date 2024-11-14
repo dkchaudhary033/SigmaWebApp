@@ -1,0 +1,49 @@
+.1. Introduction to Version Control
+2. Setting Up Git and GitHub
+
+ -----------Basic Git Command---------------
+
+### Set global username and email for git(Locally).
+</>
+git config --global user.name "<your username>"
+git config --global user.email "<your email>"
+
+### Intialise an empty git repository
+</>
+git init
+
+### Clone an existing git repository
+</>
+git clone <repository_url>
+
+### Add file/stage to git
+</>
+git add <filename>
+
+### Add all the current the directory file to git
+</>
+git add .
+
+### Commit all the staged files to git
+</>
+git commit -m "<your _commit_messages>"
+
+### Show the status of your git repository
+</>
+git status
+
+### show the branches of the git repository
+</>
+git branch
+
+### Push your local changes to the remote branch
+</>
+git push origin <branch_name>
+
+###  Pull your remote changes to the local branch
+</>
+git pull origin <branch_name>
+
+### check your git commits and logs
+</>
+git log
