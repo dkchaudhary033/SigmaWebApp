@@ -18,19 +18,19 @@ git clone <repository_url>
 
 ### Add file/stage to git
 </>
-git add <filename>
+                                           git add <filename>
 
 ### Add all the current the directory file to git
 </>
-git add .
+                                           git add .
 
 ### Commit all the staged files to git
 </>
-git commit -m "<your _commit_messages>"
+                                         git commit -m "<your _commit_messages>"
 
 ### Show the status of your git repository
 </>
-git status
+                                         git status
 
 ### show the branches of the git repository
 </>
@@ -38,7 +38,7 @@ git branch
 
 ### Push your local changes to the remote branch
 </>
-git push origin <branch_name>
+                                        git push origin <branch_name>
 
 ###  Pull your remote changes to the local branch
 </>
